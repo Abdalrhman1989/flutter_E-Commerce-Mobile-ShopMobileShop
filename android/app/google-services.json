@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493118527420",
+    "project_id": "ubreakwefix-ecommerce",
+    "storage_bucket": "ubreakwefix-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493118527420:android:fe2c8f78e0a791785bfdb9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_online_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493118527420-61h91fernparjg7eiea34i5euib5aa09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyH4dV_ZJkNlZnVCETrJco_ZeF9mxHaYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493118527420-61h91fernparjg7eiea34i5euib5aa09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
